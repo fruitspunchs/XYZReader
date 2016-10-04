@@ -2,88 +2,334 @@
 <items version="2" >
 
     <item
-        jar="D:\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        is-multidex="false"
+        jar="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\23.1.0\jars\classes.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
-        <dex dex="D:\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-cbc052dff860adb519634bb21daaaab2832eeffc.jar" />
-    </item>
-    <item
-        jar="D:\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\23.1.0\jars\classes.jar"
-        jumboMode="false"
+        optimize="true"
         revision="22.0.1"
         sha1="167a5721524b1d2810d1b41ed76eff1d53a0e82b">
-        <dex dex="D:\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-7856d327c2b1d2cb33e8d22272be5ce2a61a6f2c.jar" />
+        <dex dex="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\pre-dexed\release\com.android.support-palette-v7-23.1.0_6001b3fbf38b50540824842672154a6516b8056b.jar" />
     </item>
     <item
-        jar="D:\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
         revision="22.0.1"
-        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
-        <dex dex="D:\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-927d3896939f8b83095070c2b6c09371b7d5a5a2.jar" />
+        sha1="167a5721524b1d2810d1b41ed76eff1d53a0e82b">
+        <dex dex="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-23.1.0_6001b3fbf38b50540824842672154a6516b8056b\classes.dex" />
     </item>
     <item
-        jar="D:\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
         revision="22.0.1"
-        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
-        <dex dex="D:\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-e7a09cf720ef198d9daf5f7395051798d518017b.jar" />
+        sha1="1a57337a520bf40b9ad1e074cb780527dffa1aac">
+        <dex dex="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-23.1.0_f695b03cf1c8ad3ff2cb3d7ca8abb1d709dea6a2\classes.dex" />
     </item>
     <item
         jar="D:\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
         jumboMode="false"
+        optimize="true"
         revision="22.0.1"
         sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
         <dex dex="D:\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-26ea87f2dab0978f43f44a9cabe27efbd45e237e.jar" />
     </item>
     <item
-        jar="D:\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.0\jars\libs\internal_impl-23.1.0.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
         revision="22.0.1"
-        sha1="076c7d9e22cc325b8008ff799e0c06dfb8eefdf3">
-        <dex dex="D:\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-9652ccc76f72756a454cad341ed17613bff12d3a.jar" />
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.0_45f204153b8ceb7baa911814af2705d89f9065e6\classes.dex" />
     </item>
     <item
-        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        is-multidex="false"
+        jar="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
         jumboMode="false"
+        optimize="true"
         revision="22.0.1"
-        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
-        <dex dex="D:\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-352bae7973ce3431d0057e3aad33427d2db3baf1.jar" />
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\pre-dexed\release\internal_impl-23.1.0_45f204153b8ceb7baa911814af2705d89f9065e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1a57337a520bf40b9ad1e074cb780527dffa1aac">
+        <dex dex="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\pre-dexed\release\com.android.support-support-v13-23.1.0_f695b03cf1c8ad3ff2cb3d7ca8abb1d709dea6a2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="34317bf48a767acbb2ef3d333ea879c64d4656d8">
+        <dex dex="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_31a56ec3c21b3b931155b857a3e47e7d626fd8af\classes.dex" />
     </item>
     <item
         jar="D:\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.0\jars\classes.jar"
         jumboMode="false"
+        optimize="true"
         revision="22.0.1"
         sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
         <dex dex="D:\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-f50b6381f0bd0738d82c4eec57b9667c8972384c.jar" />
     </item>
     <item
-        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\1.1.0\d51280dbb4e8539f6c3f369d516edc26f9d89d31\okhttp-1.1.0.jar"
+        jar="D:\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.0\jars\classes.jar"
         jumboMode="false"
+        optimize="true"
         revision="22.0.1"
-        sha1="d51280dbb4e8539f6c3f369d516edc26f9d89d31">
-        <dex dex="D:\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\okhttp-1.1.0-fec5f595bdebed61b0163c5ed771cd43ec34006d.jar" />
+        sha1="1a57337a520bf40b9ad1e074cb780527dffa1aac">
+        <dex dex="D:\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-b9838a1d687fddc968a90346b8ba34e53c9ab466.jar" />
     </item>
     <item
-        jar="D:\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        is-multidex="false"
+        jar="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
         jumboMode="false"
+        optimize="true"
         revision="22.0.1"
-        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
-        <dex dex="D:\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-01d2a735cd03833612cdc75ca6ea2420dadfd72c.jar" />
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.1.0_c0443a942c5899b71b4a31f88a9b585589fd46bb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.0_c0443a942c5899b71b4a31f88a9b585589fd46bb\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="076c7d9e22cc325b8008ff799e0c06dfb8eefdf3">
+        <dex dex="D:\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-9652ccc76f72756a454cad341ed17613bff12d3a.jar" />
     </item>
     <item
         jar="D:\AndroidStudioProjects\xyzreader\XYZReader\libs\volley.jar"
         jumboMode="false"
+        optimize="true"
         revision="22.0.1"
         sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
         <dex dex="D:\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\volley-8173caa115abe4c580d44d9c2fbcb02a74ba0c7e.jar" />
     </item>
     <item
-        jar="D:\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.0\jars\classes.jar"
+        is-multidex="false"
+        jar="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
         jumboMode="false"
+        optimize="true"
         revision="22.0.1"
-        sha1="1a57337a520bf40b9ad1e074cb780527dffa1aac">
-        <dex dex="D:\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-b9838a1d687fddc968a90346b8ba34e53c9ab466.jar" />
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.1.0_ca71edbcf8a15184f6b771c34c9abf93f7191c4b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.0_ca71edbcf8a15184f6b771c34c9abf93f7191c4b\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="D:\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-352bae7973ce3431d0057e3aad33427d2db3baf1.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="D:\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-01d2a735cd03833612cdc75ca6ea2420dadfd72c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="076c7d9e22cc325b8008ff799e0c06dfb8eefdf3">
+        <dex dex="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\pre-dexed\release\internal_impl-23.1.0_bad6d66cfb18833105dce0e6ead3fee5b2f3c67a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.0_4c97f74ecb40015931a9bae61122322d2d002678\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\pre-dexed\release\com.android.support-design-23.1.0_4c97f74ecb40015931a9bae61122322d2d002678.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="D:\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-cbc052dff860adb519634bb21daaaab2832eeffc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ebe2c52abecb352ca9348640928e08cf33c2a743">
+        <dex dex="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ec5c203448a66cfa9a5def2a4da55a5df5f89c48\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-23.1.0_a403d078bc070bbab3e4c3d4d7f55a22d13d3d4a.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="D:\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-927d3896939f8b83095070c2b6c09371b7d5a5a2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\1.1.0\d51280dbb4e8539f6c3f369d516edc26f9d89d31\okhttp-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d51280dbb4e8539f6c3f369d516edc26f9d89d31">
+        <dex dex="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-1.1.0_fec5f595bdebed61b0163c5ed771cd43ec34006d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\1.1.0\d51280dbb4e8539f6c3f369d516edc26f9d89d31\okhttp-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d51280dbb4e8539f6c3f369d516edc26f9d89d31">
+        <dex dex="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\pre-dexed\release\okhttp-1.1.0_fec5f595bdebed61b0163c5ed771cd43ec34006d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="076c7d9e22cc325b8008ff799e0c06dfb8eefdf3">
+        <dex dex="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.0_bad6d66cfb18833105dce0e6ead3fee5b2f3c67a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\pre-dexed\release\volley_353f3bac754c16c78b2b71b8bac7863bd3319f7b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.0_3133097ba7ae6981d3a089c17cd88e7772ff02e3\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="D:\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-e7a09cf720ef198d9daf5f7395051798d518017b.jar" />
+    </item>
+    <item
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\1.1.0\d51280dbb4e8539f6c3f369d516edc26f9d89d31\okhttp-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d51280dbb4e8539f6c3f369d516edc26f9d89d31">
+        <dex dex="D:\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\okhttp-1.1.0-fec5f595bdebed61b0163c5ed771cd43ec34006d.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="167a5721524b1d2810d1b41ed76eff1d53a0e82b">
+        <dex dex="D:\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-7856d327c2b1d2cb33e8d22272be5ce2a61a6f2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\pre-dexed\release\support-annotations-23.1.0_3133097ba7ae6981d3a089c17cd88e7772ff02e3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\2\volley_353f3bac754c16c78b2b71b8bac7863bd3319f7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.1.0_3829e6ea7671b58fd95916bc550c04109e679a41\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\pre-dexed\release\com.android.support-cardview-v7-23.1.0_3829e6ea7671b58fd95916bc550c04109e679a41.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="C:\Android\AndroidDevelopmentWork\XYZReader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.0_a403d078bc070bbab3e4c3d4d7f55a22d13d3d4a\classes.dex" />
     </item>
 
 </items>
